@@ -1,0 +1,9 @@
+name: ClearChat
+version: 1.0.0
+author: ItzSomebody
+description: Clear chat plugin made for memes
+main: me.itzsomebody.clearchat.ClearChat
+commands:
+    clearchat:
+        description: Clear chat
+        aliases: [cc, chatclear]

@@ -1,0 +1,26 @@
+# No space necessary
+Prefix: "&8[&cClearChat&8] "
+
+# How many lines to send
+SendThisManyLines: 300
+
+# Message to send to announce that chat was cleared
+BroadcastChatClear: "&7%player% cleared the chat."
+
+# Message to send to annouce a silent chat clear
+BroadcastSilent: "&7Chat was cleared."
+
+# Message to send if user trolls plugin
+TrollMessage: "&7Umm, what are you doing?"
+
+# Message to send if user reloads config
+ReloadedConfig: "&7Reloaded config."
+
+# Message to send if user doesn't have required perms
+NoPerms: "&7No perms."
+
+# Messages to send for /clearchat help
+Help:
+    - "&7/clearchat [-s|-silent]- Clears chat (use -s for silent)."
+    - "&7/clearchat reload - Reloads config."
+    - "&7/clearchat help - What you are looking at right now."
