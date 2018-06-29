@@ -17,9 +17,13 @@ bin/
 .project
 
 # IntelliJ
+.idea/
 *.iml
 out/
-.idea/
+
+# Maven
+dependency-reduced-pom.xml
+target/
 
 # Package Files #
 *.jar
